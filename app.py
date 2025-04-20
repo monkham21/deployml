@@ -1,6 +1,7 @@
 #import library
 import streamlit as st
 import numpy as np
+from sklearn.preprocessing import StandardScaler
 import pickle
 
 #load model
